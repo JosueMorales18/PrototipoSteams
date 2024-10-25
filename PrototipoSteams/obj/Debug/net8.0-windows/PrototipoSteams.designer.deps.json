@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "System.Data.Odbc/9.0.0-rc.2.24473.5": {
+        "runtime": {
+          "lib/net8.0/System.Data.Odbc.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.47305"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/net8.0/System.Data.Odbc.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.47305"
+          },
+          "runtimes/win/lib/net8.0/System.Data.Odbc.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.47305"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Data.Odbc/9.0.0-rc.2.24473.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7XY5dNMgURvpQilL9AdUkQHuZJp7ReFuWhqmUyRLCCA7exw4SZDHf56x8J0LWcYlbaxCejfLNgJfVmYI/S0NVQ==",
+      "path": "system.data.odbc/9.0.0-rc.2.24473.5",
+      "hashPath": "system.data.odbc.9.0.0-rc.2.24473.5.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vbo4WlQrcg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\PrototipoSteams.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josue\\.nuget\\packages\\system.data.odbc\\9.0.0-rc.2.24473.5\\system.data.odbc.9.0.0-rc.2.24473.5.nupkg.sha512"
+  ],
+  "logs": []
+}

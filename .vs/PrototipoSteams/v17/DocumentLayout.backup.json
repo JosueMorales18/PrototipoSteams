@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|c:\\users\\josue\\source\\repos\\prototiposteams\\prototiposteams\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|solutionrelative:prototiposteams\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|c:\\users\\josue\\source\\repos\\prototiposteams\\prototiposteams\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|solutionrelative:prototiposteams\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|c:\\users\\josue\\source\\repos\\prototiposteams\\prototiposteams\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|solutionrelative:prototiposteams\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|c:\\users\\josue\\source\\repos\\prototiposteams\\prototiposteams\\prototiposteams.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|solutionrelative:prototiposteams\\prototiposteams.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|c:\\users\\josue\\source\\repos\\prototiposteams\\prototiposteams\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|solutionrelative:prototiposteams\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|c:\\users\\josue\\source\\repos\\prototiposteams\\prototiposteams\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|solutionrelative:prototiposteams\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|c:\\users\\josue\\source\\repos\\prototiposteams\\prototiposteams\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|solutionrelative:prototiposteams\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|c:\\users\\josue\\source\\repos\\prototiposteams\\prototiposteams\\form5.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7850A828-6E44-4165-9ED0-169B3BE23397}|PrototipoSteams\\PrototipoSteams.vbproj|solutionrelative:prototiposteams\\form5.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form4.vb",
+              "RelativeDocumentMoniker": "PrototipoSteams\\Form4.vb",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form4.vb",
+              "RelativeToolTip": "PrototipoSteams\\Form4.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T04:17:49.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form4.vb",
+              "RelativeDocumentMoniker": "PrototipoSteams\\Form4.vb",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form4.vb [Dise\u00F1o]",
+              "RelativeToolTip": "PrototipoSteams\\Form4.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T03:57:30.941Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form2.vb",
+              "RelativeDocumentMoniker": "PrototipoSteams\\Form2.vb",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form2.vb",
+              "RelativeToolTip": "PrototipoSteams\\Form2.vb",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T03:56:46.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.vb",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form5.vb",
+              "RelativeDocumentMoniker": "PrototipoSteams\\Form5.vb",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form5.vb",
+              "RelativeToolTip": "PrototipoSteams\\Form5.vb",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T03:47:13.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form5.vb",
+              "RelativeDocumentMoniker": "PrototipoSteams\\Form5.vb",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form5.vb [Dise\u00F1o]",
+              "RelativeToolTip": "PrototipoSteams\\Form5.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T03:42:33.394Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form5.Designer.vb",
+              "RelativeDocumentMoniker": "PrototipoSteams\\Form5.Designer.vb",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form5.Designer.vb",
+              "RelativeToolTip": "PrototipoSteams\\Form5.Designer.vb",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAOoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T03:40:14.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form2.vb",
+              "RelativeDocumentMoniker": "PrototipoSteams\\Form2.vb",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "PrototipoSteams\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T03:53:57.887Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrototipoSteams",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\PrototipoSteams.vbproj",
+              "RelativeDocumentMoniker": "PrototipoSteams\\PrototipoSteams.vbproj",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\PrototipoSteams\\PrototipoSteams\\PrototipoSteams.vbproj",
+              "RelativeToolTip": "PrototipoSteams\\PrototipoSteams.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-10-22T14:42:59.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
